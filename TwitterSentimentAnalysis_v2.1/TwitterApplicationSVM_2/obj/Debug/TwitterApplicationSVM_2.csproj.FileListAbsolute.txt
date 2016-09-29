@@ -1,0 +1,239 @@
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+D:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+J:\01 Uni\Individual Project\Solutions\TwitterApplicationSVM_3\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+F:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+F:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+F:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+F:\TwitterSentimentAnalysis_v1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+F:\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+D:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+J:\01 Uni\Individual Project\Solutions\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+J:\Portfolio\Individual Project\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.pdb
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\IKVM.Runtime.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\libsvm.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LIBSVM.NET.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.AspNet.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\LinqToTwitter.net.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Core.xml
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.Linq.xml
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.csprojResolveAssemblyReference.cache
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\Portfolio\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\bin\Debug\TwitterApplicationSVM_2.exe.config
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\Portfolio\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.exe
+C:\Users\james_1b5r4pc\Documents\01 Uni Projects\Portfolio\TwitterSentimentAnalysis_v2.1\TwitterApplicationSVM_2\obj\Debug\TwitterApplicationSVM_2.pdb
